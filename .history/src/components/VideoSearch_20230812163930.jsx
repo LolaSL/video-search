@@ -3,7 +3,8 @@ import axios from "axios";
 
 const API_KEY = process.env.API_KEY;
 const CHANNEL_ID = process.env.CHANNEL_ID;
-
+const API_KEY = "AIzaSyDgUdMS3_87SO1p8x05IvFEaaGA-4afwrk"
+const CHANNEL_ID = "UCarSZcFQ6-0eqZrAG4pKoMA"
 
 
 const RESULTS_PER_PAGE = 10;
